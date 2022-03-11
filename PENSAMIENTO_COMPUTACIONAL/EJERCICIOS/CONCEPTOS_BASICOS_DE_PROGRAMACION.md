@@ -15,3 +15,7 @@ JavaScript (JS) es un lenguaje de programación ligero, interpretado, o compilad
 
 
 ## LENGUAJE 3
+
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor ) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
+
+![image](https://user-images.githubusercontent.com/101213081/157948529-c2898ab0-81e4-4c02-b437-f5ad9f00d8a3.png)
