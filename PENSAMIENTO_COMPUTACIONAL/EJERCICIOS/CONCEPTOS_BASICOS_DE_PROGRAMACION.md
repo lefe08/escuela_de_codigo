@@ -8,8 +8,10 @@ C# (pronunciado "si sharp" en inglés) es un lenguaje de programación moderno, 
 
 
 ## LENGUAJE 2
+JavaScript (JS) es un lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo (just-in-time) con funciones de primera clase. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador, tal como Node
 
-![image](https://user-images.githubusercontent.com/101213081/157937322-f316ea32-6a36-408b-a8ad-ebb31f05098e.png)
+![image](https://user-images.githubusercontent.com/101213081/157948396-334e76d5-c760-4fb0-946b-b4eec94fada7.png)
 
 
-## LENGUAJE 3![image](https://user-images.githubusercontent.com/101213081/157937322-f316ea32-6a36-408b-a8ad-ebb31f05098e.png)
+
+## LENGUAJE 3
