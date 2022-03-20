@@ -13,6 +13,8 @@ sino mostrar ("es neutro")
 fin si 
 fin si 
 8 fin
+
+
  
 
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
