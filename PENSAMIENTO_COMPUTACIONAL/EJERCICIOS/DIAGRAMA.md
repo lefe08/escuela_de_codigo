@@ -18,7 +18,8 @@
 3 mostrar("ingresa la base y la alturadel triangulo)
 4 asignar( area * altura))/2
 5 imprimir(area)
-6 fin
+6 mostrar
+7 fin
 ![imagen](https://user-images.githubusercontent.com/101213081/159141654-d3d8fd9c-54e8-4d18-a317-c0d5f0e11c52.png)
 
 
