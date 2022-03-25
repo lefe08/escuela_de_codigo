@@ -39,6 +39,7 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
 
 
 
+![image](https://user-images.githubusercontent.com/101213081/160174379-827c3b64-c405-4897-be83-bfd59f6e71e9.png)
 
 
 
