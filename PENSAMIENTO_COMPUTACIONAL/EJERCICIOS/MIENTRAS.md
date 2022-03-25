@@ -11,10 +11,9 @@ Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de
 * CONTADOR=CONTADOR+1
 * FINMIENTTRAR
 * 6 FIN
- 
- ![imagen](https://user-images.githubusercontent.com/101213081/160035297-83d6ea97-82e3-4697-9d08-57adfab43e6a.png)
+ ![image](https://user-images.githubusercontent.com/101213081/160166630-42cb7b9b-5791-4b1d-a5f2-435372ca9bd0.png)
 
- 
+
  
  
  
