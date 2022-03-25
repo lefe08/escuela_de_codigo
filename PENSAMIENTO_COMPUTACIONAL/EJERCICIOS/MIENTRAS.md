@@ -39,10 +39,7 @@ Realiza un algoritmo y diagrama de flujo de un programa que solicita números al
 
 
 
-![imagen](https://user-images.githubusercontent.com/101213081/160035969-2b40237e-f48f-4b66-9767-09bb0ae59d07.png)
 
-
- 
 
 
 
