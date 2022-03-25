@@ -1,5 +1,12 @@
 ## RETO
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado. 
+* 1 inicio
+* 2 declarar(numero1,resultado)
+* 3 mostrar("ingrese un numero")
+* 4 asignar
+* 5 resultado=numero1*9
+* 6 mostrar
+* 7 fin
 
 
 ![imagen](https://user-images.githubusercontent.com/101213081/158677957-1f7a8047-a86a-4ff7-a0da-1c5b1717f763.png)
