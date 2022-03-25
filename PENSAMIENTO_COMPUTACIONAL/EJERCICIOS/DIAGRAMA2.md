@@ -1,3 +1,4 @@
+![imagen](https://user-images.githubusercontent.com/101213081/160031693-bf4ab0fe-f2de-421f-94f4-a3ed9eeeba7c.png)
 ## RETO
 1. Realiza un algoritmo y diagrama de flujo de un programa que compare dos números e indique cual es mayor.
  1 inicio ("ingresa la calificacion del "periodo")
