@@ -8,13 +8,16 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 ![imagen](https://user-images.githubusercontent.com/101213081/160883349-599a0d59-252a-4cb2-b2c1-89b42278d160.png)
 
 3. Realiza un diagrama de flujo para obtener la suma de diez cantidades, que se soliciten al usuario, mediante la utilización de un ciclo “Mientras”. 
- ## diagrama de flujo 
+
+
+
+## diagrama de flujo 
+
+![imagen](https://user-images.githubusercontent.com/101213081/160904217-abe2f981-38aa-4d2a-bc2c-7b399646539c.png)
+
+ ## algoritmo
  
-
-
-
-
-
+![imagen](https://user-images.githubusercontent.com/101213081/160904026-895de369-962d-4644-8be9-2da1d80070cd.png)
 
 5. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 6. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
