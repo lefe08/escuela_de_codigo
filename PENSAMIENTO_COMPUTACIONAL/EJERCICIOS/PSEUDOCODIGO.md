@@ -27,7 +27,10 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-8. Un programa que pida una letra y detecte si es una vocal.
+
+
+
+9. Un programa que pida una letra y detecte si es una vocal.
 ## Algoritmo 
 ![imagen](https://user-images.githubusercontent.com/101213081/160892922-f053a42c-fee8-4c93-b024-45a159b76c4c.png)
 ## diagrama de flujo
