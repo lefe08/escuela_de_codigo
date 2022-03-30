@@ -46,7 +46,11 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 
 
 8. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+ ## algoritmo
+ ![imagen](https://user-images.githubusercontent.com/101213081/160920506-739d3571-80a0-449a-8e4e-df426ffdf01f.png)
+
+## diagrama de flujo
+![imagen](https://user-images.githubusercontent.com/101213081/160920888-c5efcac6-742a-4e13-8a38-ff4647c66f6a.png)
 
 
-
-11. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+9. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
