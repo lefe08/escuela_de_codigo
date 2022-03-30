@@ -11,6 +11,11 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 4. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 5. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 6. Un programa que pida una letra y detecte si es una vocal.
-7. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-8. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-9. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+## Algoritmo 
+![imagen](https://user-images.githubusercontent.com/101213081/160892922-f053a42c-fee8-4c93-b024-45a159b76c4c.png)
+## diagrama de flujo
+![imagen](https://user-images.githubusercontent.com/101213081/160893112-b9b1cce9-683f-46c7-90c9-b329d4094431.png)
+
+8. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+9. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+10. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
