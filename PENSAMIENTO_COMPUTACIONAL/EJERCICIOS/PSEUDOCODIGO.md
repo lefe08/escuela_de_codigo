@@ -2,8 +2,10 @@
 Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 
 1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
+ 
+## algoritmo
+![imagen](https://user-images.githubusercontent.com/101213081/160883086-f1b86b39-a194-49ea-a97e-4c1fdc32f460.png)
 
-## algoritmo ![imagen](https://user-images.githubusercontent.com/101213081/160883086-f1b86b39-a194-49ea-a97e-4c1fdc32f460.png)
 ## diagrama de fluj
 ![imagen](https://user-images.githubusercontent.com/101213081/160883349-599a0d59-252a-4cb2-b2c1-89b42278d160.png)
 
