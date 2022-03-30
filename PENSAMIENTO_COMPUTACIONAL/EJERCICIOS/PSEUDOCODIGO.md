@@ -8,6 +8,8 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 ![imagen](https://user-images.githubusercontent.com/101213081/160883349-599a0d59-252a-4cb2-b2c1-89b42278d160.png)
 
 3. Realiza un diagrama de flujo para obtener la suma de diez cantidades, que se soliciten al usuario, mediante la utilización de un ciclo “Mientras”. 
+ ## diagrama de flujo 
+ 
 
 
 
