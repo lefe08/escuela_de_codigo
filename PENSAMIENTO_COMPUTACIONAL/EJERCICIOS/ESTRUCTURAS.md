@@ -22,5 +22,29 @@ fin si
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+#1 inicio 
+#2 declarar (dia)
+#3 mostrar("ingresa el numero del que quieres saber el mes")
+#4 asignar (dia)
+#5  en caso de (dia)
+caso1:mostrar("enero")
+caso2:mostrar("febrero")
+caso3:mostrar("marzo")
+caso4:mostrar("abril")
+caso5:mostrar("mayo")
+caso6:mostrar("junio")
+caso7:mostrar("julio)
+caso8:mostrar("agosto")
+caso9:mostrar("septiembre")
+caso10:mostrar("octubre")
+caso11:mostrar("noviembre")
+caso12:mostrar("diciembre")SINO Mostrar("no corresponde a un mes")FINCASO
+
+
+
+
+
+
+
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
