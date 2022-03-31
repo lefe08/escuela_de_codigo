@@ -40,8 +40,11 @@ Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para 
 
 # Algoritmo edad_promedio
 
-      suma<0
-
+      
+Algoritmo suma<0
+ Escribir "ingresa la edad promedio de un grupo"
+ Leer edad promedio
+ 
 
 
 
