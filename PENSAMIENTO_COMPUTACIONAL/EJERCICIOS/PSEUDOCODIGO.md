@@ -45,6 +45,23 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
 ![imagen](https://user-images.githubusercontent.com/101213081/160893112-b9b1cce9-683f-46c7-90c9-b329d4094431.png)
 
 7. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+ 
+## algoritmo 
+
+Algoritmo numeros_ordenados Escribir "Ingrese un primer número"Leer numero1 Escribir "Ingrese un segundo número"Leer numero2 Escribir "ingrese un tercer número "Leer numero3 si numero1<numero2 Entonces si numero2<numero3 Entonces Escribir numero1,"", numero2,"", numero3 SiNo Escribir numero1,"", numero3,"", numero2 Fin Si SiNo Si numero2<numero1 & numero2<numero2<numero3 Entonces Si
+numero1<numero3 Entonces Escribir numero2,"", numero1,"",numero3 SiNo Escribir numero2,"",numero3,"", numero1 Fin Si SiNo Si numero3<numero1 & numero3<numero2 Entonces Si numero1<numero2 Entonces Escribir numero3."",numero1,"",numero2 SiNo Escribir numero3,"",numero2,"",numero1 Fin Si SiNo Escribir "Se repitió algún número" Fin Si FIN Si Fin Si FinAlgoritmo 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 8. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
