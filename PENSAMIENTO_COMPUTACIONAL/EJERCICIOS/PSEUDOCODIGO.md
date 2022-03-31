@@ -48,8 +48,16 @@ Convierte los siguientes ejercicios realizado durante el taller a pseudocodigo.
  
 ## algoritmo 
 
-Algoritmo numeros_ordenados Escribir "Ingrese un primer número"Leer numero1 Escribir "Ingrese un segundo número"Leer numero2 Escribir "ingrese un tercer número "Leer numero3 si numero1<numero2 Entonces si numero2<numero3 Entonces Escribir numero1,"", numero2,"", numero3 SiNo Escribir numero1,"", numero3,"", numero2 Fin Si SiNo Si numero2<numero1 & numero2<numero2<numero3 Entonces Si
+Algoritmo numeros_ordenados Escribir "Ingrese un primer número"Leer numero1 Escribir "Ingrese un segundo número"Leer numero2 Escribir "ingrese un tercer número "Leer numero3 si numero1<numero2 Entonces si numero2<numero3 Entonces Escribir numero1,"", numero2,"", numero SiNo Escribir numero3,"", numero2 Fin Si SiNo Si numero2<numero1 & numero2<numero2<numero3 Entonces Si
 numero1<numero3 Entonces Escribir numero2,"", numero1,"",numero3 SiNo Escribir numero2,"",numero3,"", numero1 Fin Si SiNo Si numero3<numero1 & numero3<numero2 Entonces Si numero1<numero2 Entonces Escribir numero3."",numero1,"",numero2 SiNo Escribir numero3,"",numero2,"",numero1 Fin Si SiNo Escribir "Se repitió algún número" Fin Si FIN Si Fin Si FinAlgoritmo 
+
+##diagrama de flujo 
+
+
+
+![imagen](https://user-images.githubusercontent.com/101213081/160954302-07e0b501-8b67-429b-aa9b-6bd5d30dd3da.png)
+
+
 
 
 
