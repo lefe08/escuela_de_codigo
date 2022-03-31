@@ -81,3 +81,11 @@ numero1<numero3 Entonces Escribir numero2,"", numero1,"",numero3 SiNo Escribir n
 
 
 9. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+
+## algoritmo
+algoritmo suma_positivos suma2<-0 Repetir Escribir "ingresa un número positivo" Leer numero2 suma2=suma2+numero2 Hasta Que numero<0 Escribir "La suma de los numeros positivos ingresados es",suma2 FinAlgoritmo
+
+
+
+
+
