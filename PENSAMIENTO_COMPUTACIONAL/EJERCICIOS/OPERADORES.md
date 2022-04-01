@@ -6,6 +6,20 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
    # (18/9*2+16)Dentro de este paréntesis la división 18/9 se realiza primero cuyo resultado es 2.
    # Ese resultado se multiplica  por 2. cuyo resultado es 4.
    # Finalmente  se suma el 16, cuyo resultado es 20.
+ 
+   
+   
+ # ( 5 * 4 - 3 ^ 3) despues se realiza lo que hay dentro de eate  otro  parentesis
+   
+   # (5 * 4 - 3 ^ 3 ) dentro de este paréntesis  la potencia 3 ^ 3 se realiza primero cuyu resultado es 27.
+   # Seguidamente se realiza la multiplicación  5 * 4, cuyo resultado  es 20.
+   # Finalmente  se resta el 27 del 20, cuyo  resultado  es - 7.
+   
+ # Por último se realiza la resta de los resultados  de las operaciones dentro  de los dos paréntesis  
+   
+   
+   
+   
    
    
    
