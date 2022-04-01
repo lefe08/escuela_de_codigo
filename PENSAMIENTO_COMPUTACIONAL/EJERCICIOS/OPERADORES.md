@@ -2,8 +2,13 @@
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
- 1 primero resolver  la multiplicacion o de parentesis, dividir 18 entre 9, luego realizar una suma 2 mas 16,resolver 2 resolver lo del parentesis   realizar una la potencia 3*3
-X = (5 + 2 * 4) – (25 +. 5)2
+ # 1(18/9*2+16) 1 SE REALIZA LO QUE HAY DENTRO  EN ESTE PARÉNTESIS
+   # (18/9*2+16)Dentro de este paréntesis la división 18/9 se realiza primero cuyo resultado es 2.
+   # Ese resultado se multiplica  por 2. cuyo resultado es 4.
+   # Finalmente  se suma el 16, cuyo resultado es 20.
+   
+   
+   
 
 X = (100/5^2 + 1) + 11 * 3
 
