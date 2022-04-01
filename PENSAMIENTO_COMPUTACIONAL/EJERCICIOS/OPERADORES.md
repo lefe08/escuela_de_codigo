@@ -16,7 +16,19 @@ puntualidad. Si el empleado siempre llega puntual durante el mes se le
 notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de
 baja al final del mes. Describe tal situación usando operadores
-relacionales.
+relacionales 
+
+
+NOMBRE DE LA VARIABLE  | OPERADOR  |  VALOR DE COMPARACION  | MENSAJE DE ALERTA QUE SE ENVÍA |
+
+RETARDOS DEL EMPLEADO  | = | 0 | ACREEDOR AL BONO DE PUNTUALIDAD
+
+RETARDOS DEL EMPLEADO  | =  | 2 | SUSPENCIÓN  DE 1 DÍA
+
+RETARDOS  DEL EMPLEADO  | > = | 3 | BAJA AL FINAL DEL MES 
+
+
+
   
 
   si la puntualidad es = a trenta 
