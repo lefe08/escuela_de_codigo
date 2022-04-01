@@ -16,6 +16,10 @@ X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
    # Finalmente  se resta el 27 del 20, cuyo  resultado  es - 7.
    
  # Por último se realiza la resta de los resultados  de las operaciones dentro  de los dos paréntesis  
+ 
+ 
+ 
+ 
    
    
    
