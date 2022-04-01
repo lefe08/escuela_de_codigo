@@ -27,11 +27,21 @@ Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
+ ### C > D
+ ### E < F
+ ### G < E
+ ### D > F
+ ### G < E < F < D < C         
+
+### por lo tanto G es el menor  de todos 
+
+
+
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) = falso 
-2) 6!
-3) ¬ (128<145 && 12>9) = verdadero 
-4) “Daniela”< >”DANIELA” = falso 
-5) 10*20< >210 = falso 
+1) (45<120 OR 12<120)     = falso 
+2) 6!                     = false
+3) ¬ (128<145 && 12>9)    = false
+4) “Daniela”< >”DANIELA”  = true
+5) 10*20< >210            = tru
