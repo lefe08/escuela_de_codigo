@@ -1,6 +1,24 @@
 ### ESTOS EJERCICIOS REALIZALOS EN PSEINT PARA QUE PUEDAS PRACTICAR EL PENSAMIENTO COMPUTACIONAL.
 
 Escribe un programa que permita saber si un año es bisiesto.(Para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.)
+ ### Algoritmo  Año_Bisiesto
+   * Escribir "ingresa el año"
+   * Leer año
+    
+    A1<-año%4
+    
+    A2<-año%100
+    
+    A3<-año%400
+    Si [(A1=0)&(A3=0)] | [(A1=0)&(A2<>0)]  Entonces
+      
+      Escribir año,' es año bisiesto'
+      SiNo
+      Escribir año,' no es año bisiesto'
+   FinSi
+ FinAlgoritmo  
+     
+ 
  
  
 
