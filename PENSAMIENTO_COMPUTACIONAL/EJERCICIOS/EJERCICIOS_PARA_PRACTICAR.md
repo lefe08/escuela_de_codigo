@@ -58,7 +58,7 @@ Hallar Aumento al Sueldo de un empleado; si el sueldo es mayor a $500.000 su aum
    si sueldo > = 500 Entonces 
    nuevo<-sueldo + 0 . 12 * sueldo
    
-   Escribir "su nuevo sueldo será de $ ', nuevo
+  * Escribir "su nuevo sueldo será de $ ', nuevo
  SiNO 
    nuevo < - sueldo + 0 .15 * sueldo
    Escribir"Su nuevo sueldo será de $', nuevo
